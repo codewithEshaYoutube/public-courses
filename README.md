@@ -10,6 +10,12 @@ Contributors can suggest improvements via **pull requests**, and GitHub Actions 
 A complete guide is available in [Comprehensive Documentation](./DOCUMENTATION.md).  
 It covers setup, workflows, contribution guidelines, and detailed instructions.
 
+### Administrator and Manager Guides
+
+For specific administrative tasks, see the [Wiki Documentation](./wiki/README.md):
+- **[P1] Creating New Content for the Python Course** - Guide for administrators
+- **[P2] Inviting Volunteers** - Guide for managers (managers only)
+
 ---
 
 ## Repository Overview
@@ -28,7 +34,8 @@ It covers setup, workflows, contribution guidelines, and detailed instructions.
 2. [Syncing Content](./DOCUMENTATION.md#syncing-content-from-omegaupcom-to-this-repository)  
 3. [Modifying Problems](./DOCUMENTATION.md#modifying-existing-problems-content)  
 4. [Adding/Removing Problems](./DOCUMENTATION.md#adding-or-removing-problems-to-the-couse)  
-5. [Contributing](./DOCUMENTATION.md#contributing)  
+5. [Administrator and Manager Guides](./DOCUMENTATION.md#administrator-and-manager-guides)
+6. [Contributing](./DOCUMENTATION.md#contributing)  
  
 
 ---

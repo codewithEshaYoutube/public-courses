@@ -192,3 +192,22 @@ If a contributor wants to request a problem to be added or removed then they can
 ```
 and raise a pull request targeting `modify-assignments` branch. When this pull request gets merged then the Github Actions Bot will add a commit to the branch for the desired changes.
 
+## Administrator and Manager Guides
+
+For detailed guides on specific administrative tasks, see the [Wiki Documentation](./wiki/README.md):
+
+### For Administrators
+
+- **[P1] Creating New Content for the Python Course** ([wiki/P1-Creating-New-Python-Course-Content.md](./wiki/P1-Creating-New-Python-Course-Content.md))
+  
+  Complete guide for creating new content for the Python course, including planning, creation on omegaUp, syncing to GitHub, and best practices.
+
+### For Managers
+
+- **[P2] Inviting Volunteers to Create/Modify Highly Requested Content** ([wiki/P2-Inviting-Volunteers-Managers.md](./wiki/P2-Inviting-Volunteers-Managers.md))
+  
+  Comprehensive guide for managers on recruiting, coordinating, and working with volunteers to create and improve course content.
+
+### Blog Posts
+
+Blog post versions of these guides (in both English and Spanish) are available in the [`blog-posts/`](./blog-posts/) directory for publishing on the omegaUp blog.
